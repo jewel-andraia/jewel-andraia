@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hoopla!
+
+I'm andytuba (he/him or they/them). 
+
+Catch me on [andytuba.com](https://andytuba.com)
 
 <!--
 **andytuba/andytuba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
