@@ -1,8 +1,11 @@
 ### Hoopla!
 
-I'm andytuba (he/him or they/them). 
+I'm andytuba ([he/him or they/them](https://pronoun.is/they?or=he)). 
+
+I work at Reddit as Engineering Manager for the Consumer Safety team.
 
 Catch me on [andytuba.com](https://andytuba.com)
+
 
 <!--
 **andytuba/andytuba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
