@@ -1,10 +1,12 @@
 ### Hoopla!
 
-I'm andytuba ([they/them or he/him](https://pronoun.is/they?or=he)). 
+👋🏼 I'm andytuba ([they/them or he/him](https://pronoun.is/they?or=he)). 
 
-I work at Reddit as Engineering Manager for the Consumer Safety team.
+🔭 I work at Reddit as Engineering Manager for the Consumer Safety team.
 
-Catch me on [andytuba.com](https://andytuba.com)
+📫 Catch me on [andytuba.com](https://andytuba.com).
+
+![Portrait headshot](headshot-astrongphoto2021-small.jpg) ![Portrait headshot](octubacat.png)
 
 
 <!--
