@@ -6,9 +6,7 @@
 
 📫 Catch me on [andytuba.com](https://andytuba.com).
 
-![Portrait headshot](headshot-astrongphoto2021-small.jpg)
-
-Headshot © 2021 [A Strong Photo](https://astrongphoto.com)
+Profile photo headshot © 2021 [A Strong Photo](https://astrongphoto.com)
 
 ![The "octubacat" avatar I've used for a while](octubacat.png)
 
