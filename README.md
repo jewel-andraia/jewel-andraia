@@ -1,6 +1,6 @@
 ### Hoopla!
 
-👋🏼 I'm andytuba ([they/them or he/him](https://pronoun.is/they?or=he)). 
+👋🏼 I'm andytuba ([they/them](https://pronoun.is/they)). 
 
 🔭 I work at Reddit as Engineering Manager for the Consumer Safety team.
 
