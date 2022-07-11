@@ -1,8 +1,8 @@
 ### Hoopla!
 
-👋🏼 I'm andytuba ([they/them](https://pronoun.is/they)). 
+👋🏼 I'm Jewel Andraia Darger-Sacher ([she/they](https://pronoun.is/she)), née andytuba ([they/he](https://pronoun.is/they?or=he)). 
 
-🔭 I work at Reddit as Engineering Manager for the Consumer Safety team.
+🔭 I work at Reddit as a Senior IT Fullstack Engineer for IT Engineering - Internal Tools / Business Applications. (📜 See more details on [my resume](https://andytuba.com/resume).)
 
 📫 Catch me on [andytuba.com](https://andytuba.com).
 
