@@ -2,9 +2,9 @@
 
 👋🏼 I'm Jewel Andraia Darger-Sacher ([she/they](https://pronoun.is/she)), née andytuba ([they/he](https://pronoun.is/they?or=he)). 
 
-🔭 I work at Reddit as a Senior IT Fullstack Engineer for IT Engineering - Internal Tools / Business Applications. (📜 See more details on [my resume](https://andytuba.com/resume).)
+🔭 I work at Reddit as a Senior IT Fullstack Engineer for IT Engineering - Internal Tools / Business Applications. (📜 See more details on [my resume](https://jewel.andraia.xyz/resume).)
 
-📫 Catch me on [andytuba.com](https://andytuba.com).
+📫 More details on my website at [jewel.andraia.xyz](https://jewel.andraia.xyz).
 
 Profile photo headshot © 2021 [A Strong Photo](https://astrongphoto.com)
 
@@ -12,7 +12,7 @@ Profile photo headshot © 2021 [A Strong Photo](https://astrongphoto.com)
 
 
 <!--
-**andytuba/andytuba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jewel-andraia/jewel-andraia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
